@@ -1,8 +1,8 @@
 {
   "name": "hydro-timekeeper",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Timekeeper integration for hydro",
-  "keywords": ["hydroplugin"],
+  "keywords": ["hydroplugin", "hydro", "timekeeper"],
   "main": "./index.js",
   "homepage": "https://github.com/hydrojs/hydro-timekeeper",
   "scripts": {
